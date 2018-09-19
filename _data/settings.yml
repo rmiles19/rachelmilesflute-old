@@ -13,13 +13,13 @@ menu_settings:
     - title: 'Home'
       url: '/'
     - title: 'Bio'
-      url: '/Bio/'
+      url: '/bio/'
     - title: 'Audio - Video'
-      url: '/Audio-Video/'
+      url: '/audio-video/'
     - title: 'Teaching'
-      url: '/Teaching/'
+      url: '/teaching/'
     - title: 'Contact'
-      url: '/Contact/'
+      url: '/contact/'
 
 grid_settings:
   grid_spacing: 10
