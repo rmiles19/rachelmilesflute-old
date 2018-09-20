@@ -76,7 +76,7 @@ featured_image: /images/dutilleux.jpg
 * Elizabeth Brown -- Trillium
 * Claude Debussy – Syrinx
 * Daniel Dorff -- Tweet for solo piccolo
-* Jennifer Higdon -- Rapid Fire
+* Jennifer Higdon -- Rapid·Fire
 * Arthur Honegger -- Danse de la Chèvre 
 * Marin Marais -- Les Folies D’Espagne
 * Robert Muczynski -- Three Preludes

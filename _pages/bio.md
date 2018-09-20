@@ -1,6 +1,6 @@
 ---
 title: Bio
-featured_image: /images/demo/demo-square.png
+featured_image: /images/demo/demo-square.jpg
 ---
 # Rachel Miles Bio
 
