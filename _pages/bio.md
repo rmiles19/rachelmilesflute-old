@@ -4,7 +4,7 @@ featured_image: /images/demo/demo-square.jpg
 ---
 # Rachel Miles Bio
 
-![](/images/headshot3.jpg)
+![](/images/grass1.jpg)
 
 Rachel Miles is an accomplished and experienced musician based out of Salt Lake City, Utah. She started studying the flute at age 9 under the tutelage of Jane Wadsworth, then received her Bachelor's degree in Flute Performance from Brigham Young University under Dr. April Clayton. She then received her Master's degree in Flute Performance from the University of Utah, studying with professors Lisa Byrnes and Caitlyn Moore of the Utah Symphony. 
 
