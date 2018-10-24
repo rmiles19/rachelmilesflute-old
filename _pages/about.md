@@ -1,6 +1,6 @@
 ---
 title: BIO
-featured_image: /images/headshot1.jpg
+featured_image: /images/grass1.jpg
 ---
 
 ![](/images/headshot2.jpg)
